@@ -1,1 +1,1 @@
-# Structure-for-the-project
+# WebStudio-2.0
